@@ -9,7 +9,7 @@ git clone https://github.com/tushar5334/nestjs-taskmanagement-api-mysql.git
 ```
 
 ```sh
-cd nestjs-taskmanagement-api-mysql/
+cd nestjs-taskmanagement-api-mysql
 ```
 
 ## Installation
